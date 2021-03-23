@@ -16,3 +16,5 @@ Libraries used:
 3. matplotlib
 4. numpy
 5. pandas
+
+All projects include plots for each selected algorithm
