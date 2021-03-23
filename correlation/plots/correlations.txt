@@ -1,0 +1,50 @@
+Rating - Budget
+Covariance:
+[[1.42709822e+00 4.53130428e+06]
+[4.53130428e+06 1.65831315e+15]]
+Pearson Correlation
+(0.09314574534816343, 9.948784051026648e-11)
+Spearman Correlation
+SpearmanrResult(correlation=0.06618290058699863, pvalue=4.420624479139792e-06)
+Fisher-Z Transformation
+[9.28777575e-02 9.94878405e-11]
+Kendall Correlation
+KendalltauResult(correlation=0.0435999052090114, pvalue=1.2952863033694235e-05)
+Weighted Kendall
+WeightedTauResult(correlation=-0.0002947031014271656, pvalue=nan)
+Cosine Similarity
+0.5844568424475632
+
+Budget - Revenue
+Covariance:
+[[1.65831315e+15 4.84676646e+15]
+[4.84676646e+15 2.65224353e+16]]
+Pearson Correlation
+(0.7308228569244539, 0.0)
+Spearman Correlation
+SpearmanrResult(correlation=0.7568405860683086, pvalue=0.0)
+Fisher-Z Transformation
+[0.63111434 0.        ]
+Kendall Correlation
+KendalltauResult(correlation=0.5997583361907011, pvalue=0.0)
+Weighted Kendall
+WeightedTauResult(correlation=0.827063634879648, pvalue=nan)
+Cosine Similarity
+-0.04891303321576348
+
+Rating - Revenue
+Covariance:
+[[1.42709822e+00 3.83556791e+07]
+[3.83556791e+07 2.65224353e+16]]
+Pearson Correlation
+(0.1971496658113078, 2.722311693483252e-43)
+Spearman Correlation
+SpearmanrResult(correlation=0.24345707518578835, pvalue=9.432578831102468e-66)
+Fisher-Z Transformation
+[1.94653358e-01 2.72231169e-43]
+Kendall Correlation
+KendalltauResult(correlation=0.17156245900411904, pvalue=8.762955192766508e-65)
+Weighted Kendall
+WeightedTauResult(correlation=0.2239461341586415, pvalue=nan)
+Cosine Similarity
+0.4763288099653326
