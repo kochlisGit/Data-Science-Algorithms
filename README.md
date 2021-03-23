@@ -11,8 +11,8 @@ Implementation of statistics algorithms for Machine Learning &amp; Data Mining
 6. Dimensionality Reduction (Image Compression Example)
 
 Libraries used:
-sklearn
-scipy
-matplotlib
-numpy
-pandas
+1. sklearn
+2. scipy
+3. matplotlib
+4. numpy
+5. pandas
