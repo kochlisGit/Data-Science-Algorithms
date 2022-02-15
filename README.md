@@ -1,5 +1,5 @@
 # ML-Statistics
-Implementation of statistics algorithms for Machine Learning &amp; Data Mining in python, using Numpy, Pandas & SKLearn. **Data were extracted from MovieLens and Google Trends.**
+Implementation of statistics & data science algorithms for Machine Learning &amp; Data Mining in python, using Numpy, Pandas & SKLearn. **Data were extracted from MovieLens and Google Trends.**
 
 # This repository includes algorithms and statistical methods for:
 
